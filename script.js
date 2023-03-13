@@ -12,7 +12,7 @@ loginButton.addEventListener("click", (e) => {
 
     if (username === "DOC" && password === "DOC1") {
         // If the credentials are valid, show an alert box and reload the page
-        window.open("https://sites.google.com/view/cryptologymithunn","_self");
+        window.open("https://sites.google.com/view/code-red-mithunn","_self");
     } 
     else {
         // Otherwise, make the login error message show (change its oppacity)
