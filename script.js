@@ -10,7 +10,7 @@ loginButton.addEventListener("click", (e) => {
     const username = loginForm.username.value;
     const password = loginForm.password.value;
 
-    if (username === "DOC" && password === "DOC1") {
+    if (username === "RED" && password === "JVZ") {
         // If the credentials are valid, show an alert box and reload the page
         window.open("https://sites.google.com/view/code-red-mithunn","_self");
     } 
